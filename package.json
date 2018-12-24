@@ -56,5 +56,5 @@
     "url": "git+https://github.com/evansmwendwa/ng2-daterangepicker.git"
   },
   "types": "./index.d.ts",
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
