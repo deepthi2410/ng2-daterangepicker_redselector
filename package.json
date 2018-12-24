@@ -45,7 +45,7 @@
   "homepage": "https://github.com/evansmwendwa/ng2-daterangepicker#readme",
   "license": "MIT",
   "main": "./index.js",
-  "name": "ng2-daterangepicker_redselector",
+  "name": "ng2-daterangepicker_rs",
   "peerDependencies": {
     "@types/jquery": "^3.2.12",
     "jquery": "^3.2.1",
@@ -55,17 +55,6 @@
     "type": "git",
     "url": "git+https://github.com/evansmwendwa/ng2-daterangepicker.git"
   },
-  "scripts": {
-    "build": "ng build",
-    "build-prod": "ng build --aot --prod",
-    "e2e": "ng e2e",
-    "lint": "ng lint",
-    "ng": "ng",
-    "ngc-build": "rm -rf lib && \"node_modules/.bin/ngc\" -p tsconfig-aot.json",
-    "prepublish": "rm -rf lib && \"node_modules/.bin/ngc\" -p tsconfig-aot.json",
-    "start": "ng serve",
-    "test": "ng test"
-  },
   "types": "./index.d.ts",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
